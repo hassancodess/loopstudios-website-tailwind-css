@@ -17,6 +17,9 @@ module.exports = {
         'hero-desktop': "url('/images/desktop/image-hero.jpg')",
         'hero-mobile': "url('/images/mobile/image-hero.jpg')",
       },
+      letterSpacing: {
+        widest: '.3em',
+      },
     },
   },
   plugins: [],
